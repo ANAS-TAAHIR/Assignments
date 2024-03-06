@@ -5,4 +5,4 @@ In this Assignment/Project assigned by my professor, I have to create a basic ty
 In this Assignment/Project , I have to code the Linear Regression Model using NumPy. This the implementation of Linear Regression with Simultaneous Equation. It contains Linear, Quadratic, Cubic and upto 6 degree models. I have also measured the accuracy tests and compared each model accuracy.
 
 ## 3. Linear Regression (Gradient Descent)
-In this Assignment/Project , I have coded Linear Regression Model using Gradient Descent Algorithm. I also tried to write Multiple Linear Regression (MLR) using Gradient Descent but did'nt got the results. 
+In this Assignment/Project , I have coded Linear Regression Model using Gradient Descent Algorithm. I also wrote Multiple Linear Regression (MLR) using Gradient Descent. 
