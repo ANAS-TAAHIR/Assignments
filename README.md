@@ -1,4 +1,7 @@
-## Python Practice
+## Machine Learning
+This repository cotain beginner friendly assignments and projects. Going through these projects will give you an idea how machine learning algorithms do work under the hood. If you also have some beginner friendly projects, please do share.
+
+### 0. Python Practice
 This Python practice is for beginners. It also includes practices for NumPy and all important concepts of it.  
 
 ### 1. Information Retrival System (IRS)
