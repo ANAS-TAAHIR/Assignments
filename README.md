@@ -1,4 +1,4 @@
-## 0. Python Practice
+Python Practice
 This Python practice is for beginners. It also includes practices for NumPy and all important concepts of it.  
 
 ## 1. Information Retrival System (IRS)
